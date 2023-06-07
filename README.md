@@ -4,6 +4,6 @@ What if I could tell what kind of bug bit me by taking a picture and then take a
 ## Technology
 The App will be written in Flutter. For the bite recognition I will use a standart image recognition model.
 ## Long Term Business Plan
-- Tick vs. Mosquito Bites Model -> Proof of Concept
+- Tick vs. Mosquito Bites Model -> Proof of Concept, MVP
 - Expansion to other Insects and Bite Types
 - Expansion to other Dermatological Issues
