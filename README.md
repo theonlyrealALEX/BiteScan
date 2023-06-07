@@ -1,4 +1,4 @@
-# _[Work in Progress]_ BiteScan - A Cross-Platform App to quickly identify Bug Bites on Human Skin
+# _[Work in Progress]_ BiteScan - A Cross-Platform App to Quickly Identify Bug Bites on Human Skin
 ## Idea
 What if I could tell what kind of bug bit me by taking a picture and then take an appropriate action quickly in order to prevent further damage (e.g. preventing lyme disease).
 ## Technology
